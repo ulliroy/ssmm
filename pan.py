@@ -1,0 +1,6 @@
+
+ssh  22
+RDP  3389
+SCP 22
+FTP  21
+LDAP  389
